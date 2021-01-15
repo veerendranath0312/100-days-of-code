@@ -1,30 +1,35 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 11, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned about Primitive data types, NaN, variables and let, unary operators, const, booleans, strings
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Started my 100DaysOfCode with JavaScript and really excited to continue my 100 days coding streak. 💖
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work:** [Link to my notes](https://www.notion.so/DAY-1-b0023daac94c4a0abb54e3ec5df55054)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 12, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned about null & undefined, Math object & random numbers, parseInt() & parseFloat(), comparision operators, if...else if...else statements, Nesting !!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I feel like I am slowly getting better at JS.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-2-2283059e87b84ae3b7744f4402bb5a3e)
 
 
-### Day 1: June 27, Monday
+### Day 3: January 13, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through Truthy & Falsy values, logical AND - OR - NOT operators, operator precedence, switch statement and Ternary operator.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** Today I felt a bit lazy and coded for one hour and gon through the above mentioned concepts.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-3-7ca3b3d5c8b84a36b6ef0cdd3a0b925d)
+
+
+### Day 4: January 14, 2021
+
+**Today's Progress**: Learned about creating arrays, array indices, modifying arrays and some useful array methods.
+
+**Thoughts:** I always like to work with arrays. I felt excited while learning the array methods like push(), pop(), unshift(), shift(), reverse(), join(), slice(), indexOf(), includes().
+
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-4-49611ff2b78a4dfb8397c5c2479430e1)
