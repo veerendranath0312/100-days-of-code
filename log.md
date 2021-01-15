@@ -39,6 +39,6 @@
 
 **Today's Progress**: Learned about - splice() and sort() methods, Reference types, using const with arrays, working with nested arrays, Introduction to objects, nested objects
 
-**Thoughts:** While working with arrays and objects I cam across a tricky part calls reference types. Both the arrays and objects are reference types.
+**Thoughts:** While working with arrays and objects I came across a tricky part called reference types. Both the arrays and objects are reference types.
 
 **Link(s) to work:** [Link to my notes](https://www.notion.so/Day-5-b97e9d6ed43c4fe0a168822986547479)
