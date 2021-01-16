@@ -42,3 +42,12 @@
 **Thoughts:** While working with arrays and objects I came across a tricky part called reference types. Both the arrays and objects are reference types.
 
 **Link(s) to work:** [Link to my notes](https://www.notion.so/Day-5-b97e9d6ed43c4fe0a168822986547479)
+
+
+### Day 6: January 16, 2021
+
+**Today's Progress**: Learned about - for loop, infinite loops, looping arrays & objects, nested for loops, while loop, break statement
+
+**Thoughts:** 
+
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-6-1e645b6042cc4a7090ebf4c2adc887ab)
