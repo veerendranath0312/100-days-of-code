@@ -51,3 +51,12 @@
 **Thoughts:** 
 
 **Link(s) to work:** [Link to my notes](https://www.notion.so/Day-6-1e645b6042cc4a7090ebf4c2adc887ab)
+
+
+### Day 7: January 17, 2021
+
+**Today's Progress**: Learned about - for...of, comparing for and for...of, for...of with objects, for...in loops
+
+**Thoughts:** 
+
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-7-48fe97b3b095412dac895a07d84e5f68)
