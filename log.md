@@ -60,3 +60,12 @@
 **Thoughts:** Really excited about using for...of and for...in loops. And also learned about where and when to use for, for...of and for...in loops
 
 **Link(s) to work:** [Link to my notes](https://www.notion.so/Day-7-48fe97b3b095412dac895a07d84e5f68)
+
+
+### Day 8: January 18, 2021
+
+**Today's Progress**: solved some javascript challenges
+
+**Thoughts:** 
+
+**Link(s) to work:** [Link to my notes](https://github.com/veerendranath0312/JavaScript-Challenges/blob/main/script.js)
