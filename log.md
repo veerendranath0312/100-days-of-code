@@ -69,3 +69,22 @@
 **Thoughts:** 
 
 **Link(s) to work:** [Link to my notes](https://github.com/veerendranath0312/JavaScript-Challenges/blob/main/script.js)
+
+
+### Day 9: January 19, 2021
+
+**Today's Progress**: Learned about what is a scope 🤔, function scope, block scope, lexical scope, function expressions.
+
+**Thoughts:** Feeling happy that my progress is improving 💹
+
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-9-ddc3ee59c65b4e6395a9de9c387d156e)
+
+
+### Day 10: January 20, 2021
+
+**Today's Progress**: Learnt a bunch of new stuff like higher order functions, functions as arguments, functions as return values, callback(function passing as an argument) and some examples.
+
+**Thoughts:** Its completely new stuff for me, I took my own time⏳ to grasp the things. 
+
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-10-fc2bf019ac9843b2afc15536763dfa6b)
+
