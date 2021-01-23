@@ -97,3 +97,13 @@
 
 **Link(s) to work:** [Link to my notes](https://www.notion.so/Day-11-7ca2a85c07524f84a8b40ecf5c0a80fe)
 
+
+### Day 12: January 22, 2021
+
+**Today's Progress**: Learned some cool stuff - implicit arrow functions, find(), filter(), every(), some() array callback methods
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-12-9e1416696caf47fdb79e9e5265be6868)
+
+
