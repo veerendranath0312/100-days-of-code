@@ -107,3 +107,12 @@
 **Link(s) to work:** [Link to my notes](https://www.notion.so/Day-12-9e1416696caf47fdb79e9e5265be6868)
 
 
+### Day 13: January 23, 2021
+
+**Today's Progress**: Learned about reduce(), sort(), default parameters, spread operator for function calls
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-13-a18f10b1283b4d1dbeca503dea78a30a)
+
+
