@@ -116,3 +116,12 @@
 **Link(s) to work:** [Link to my notes](https://www.notion.so/Day-13-a18f10b1283b4d1dbeca503dea78a30a)
 
 
+### Day 14: January 25, 2021
+
+**Today's Progress**: one through some cool new JS features - spread opearator, rest parameters, destructing 
+
+**Thoughts:**  These new features of javascript are really useful and these are awesome 😎
+
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-14-b8dfc88a629141e9ab65c5c432b8eaa6)
+
+
