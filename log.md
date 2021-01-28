@@ -149,6 +149,6 @@
 
 **Thoughts:**  
 
-**Link(s) to work:** [Link to my notes]()
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-17-e890da927f1c460f9d91e1bac8c5e370)
 
 
