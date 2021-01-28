@@ -125,3 +125,30 @@
 **Link(s) to work:** [Link to my notes](https://www.notion.so/Day-14-b8dfc88a629141e9ab65c5c432b8eaa6)
 
 
+### Day 15: January 26, 2021
+
+**Today's Progress**: Spend my day in reading Textbook - JavaScript and JQuery by Jon Duckett
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes]()
+
+
+### Day 16: January 27, 2021
+
+**Today's Progress**: Took notes on previous learned topics
+
+**Thoughts:**  Its always good to prepare your own notes and it will be helpful for us to easily review the topics later.
+
+**Link(s) to work:** [Link to my notes]()
+
+
+### Day 17: January 28, 2021
+
+**Today's Progress**: Shorthand object properties, computed properties, Adding methods to objects, Method shorthand syntax, An intro to THIS keyword, using THIS in methods, THIS: Invocation context
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes]()
+
+
