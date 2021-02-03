@@ -152,3 +152,46 @@
 **Link(s) to work:** [Link to my notes](https://www.notion.so/Day-17-e890da927f1c460f9d91e1bac8c5e370)
 
 
+### Day 18: January 29, 2021
+
+**Today's Progress**: Today I learned about the annoying concepts of this. How this keyword behave differently in different situations
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-18-b99977b0925549eab3c2f9f4210116c0)
+
+
+### Day 19: January 30, 2021
+
+**Today's Progress**: Spend time in practising JS basics from freecodecamp
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes]()
+
+
+### Day 20: February 01, 2021
+
+**Today's Progress**: completed ES6 module in JavaScript Algorithms and Data Structures Certification from freecodecamp
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-20-8cc6f72d09fd469e9bdb324543e02e14)
+
+
+### Day 21: February 02, 2021
+
+**Today's Progress**: Completed Challenges 1 - 7 in Regural Expressions module from freecodecamp.
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-21-6ff5871c86654aaab88e012c54d044d7)
+
+
+### Day 22: February 03, 2021
+
+**Today's Progress**: Completed Challenges 8 - 33 in Regural Expressions module from freecodecamp.
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes](https://www.notion.so/Day-22-c8bda859d684449e99c1828f0b50cd12)
