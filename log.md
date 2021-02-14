@@ -195,3 +195,84 @@
 **Thoughts:**  
 
 **Link(s) to work:** [Link to my notes](https://www.notion.so/Day-22-c8bda859d684449e99c1828f0b50cd12)
+
+
+### Day 23: February 04, 2021
+
+**Today's Progress**: Spend time in completing debugging and basic Data Structures modules, and also completed 8 programs from basic algorithm scripting module - freeCodeCamp
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes](https://github.com/veerendranath0312/JavaScript-Challenges/tree/main/Basic-Algorithm-scripting)
+
+
+### Day 24: February 05, 2021
+
+**Today's Progress**: Completed Basic Algorithm Challenges module from freeCodeCamp
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes](https://github.com/veerendranath0312/JavaScript-Challenges/tree/main/Basic-Algorithm-scripting)
+
+
+### Day 25: February 08, 2021
+
+**Today's Progress**: Started a really good cource called as **Practical JavaScript** by **Gordon Zhu**.
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes]()
+
+
+### Day 26: February 09, 2021
+
+**Today's Progress**: Learned about debugging using Chrome Dev tools
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes]()
+
+
+### Day 27: February 10, 2021
+
+**Today's Progress**: Learned about debugging using Chrome Dev tools (continuation)
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes]()
+
+
+### Day 28: February 11, 2021
+
+**Today's Progress**: Going through the Practical JavaScript course.
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes]()
+
+
+### Day 29: February 12, 2021
+
+**Today's Progress**: Going through the Practical JavaScript course.
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes]()
+
+
+### Day 30: February 13, 2021
+
+**Today's Progress**: Going through the Practical JavaScript course.
+
+**Thoughts:**  Still explaining basic concepts. The course is all about to create a todo application.
+
+**Link(s) to work:** [Link to my notes]()
+
+
+### Day 31: February 14, 2021
+
+**Today's Progress**: Going through the Practical JavaScript course.
+
+**Thoughts:**  
+
+**Link(s) to work:** [Link to my notes]()
